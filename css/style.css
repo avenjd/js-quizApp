@@ -74,6 +74,9 @@ body {
   border: 2px solid #bab9b9;
   cursor: pointer;
 }
+.quiz .quiz__body .quiz__answers .checked {
+  background-color: #333;
+}
 .quiz .quiz__body .btn {
   display: flex;
   justify-content: center;
